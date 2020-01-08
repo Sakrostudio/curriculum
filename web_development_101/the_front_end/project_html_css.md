@@ -2830,6 +2830,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Steve Blurr's Solution (Easy)](https://github.com/steveblurr/google-homepage) - [View in Browser](https://steveblurr.github.io/google-homepage/)
 * [santimc's Solution (Easy)](https://github.com/santimc/googele-homepage) - [View in Browser](https://htmlpreview.github.io/?https://github.com/santimc/googele-homepage/blob/master/index.html)
 </details>
+* [Sakros's Solution (Easy)](https://github.com/Sakrostudio/google-homepage) - [View in Browser](https://sakrostudio.github.io/google-homepage/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
